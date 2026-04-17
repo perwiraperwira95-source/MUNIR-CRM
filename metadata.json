@@ -1,0 +1,8 @@
+{
+  "name": "Munir Official POS",
+  "description": "A luxury and modern Point of Sale system for Munir Official, featuring real-time transactions, high-quality product management, and elegant business analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
